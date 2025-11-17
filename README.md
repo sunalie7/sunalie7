@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunalie7&label=Profile%20views&color=0e75b6&style=flat" alt="sunalie7" /> </p>
 
+<h5 align="center">Clubs im in!</h5>
+- Cyberpatriot
+- Sisters in Stem (Core leader)
+- SkillsUSA
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunalie7" alt="sunalie7" /></a> </p>
 
 - 🔭 I’m currently working on **a simulated MITM presentation**
